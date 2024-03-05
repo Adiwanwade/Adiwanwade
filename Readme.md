@@ -19,7 +19,7 @@
 
 <br clear="both">
 
-<img src="E:\Readme\workflows\snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/adiwanwade/adiwanwade/output/snake.svg" alt="Snake animation" />
 
 ###
 
